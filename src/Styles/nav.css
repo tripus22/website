@@ -1,0 +1,7 @@
+.nav-logo {
+    margin: 0 auto;
+}
+
+html:not([data-scroll='0']) header {
+    background-color: white; 
+}
